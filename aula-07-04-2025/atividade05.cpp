@@ -10,7 +10,7 @@ int main() {
 
   days = years * 365;
 
-  cout << "Você tem " << days << " de vida\n";
+  cout << "Você tem " << days << " dias de vida\n";
 
   return 0;
 }
